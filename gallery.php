@@ -31,83 +31,83 @@
                 <div class="col-sm-12 col-md-12 col-lg-12" >
                     <div class="row gallery-item">
                         <div class="col-md-3">
-							<a href="img/activities/quizwiz/poster.jpg" title="QuizWiz '15" data-lightbox-gallery="gallery1" data-lightbox-hidpi="img/activities/Sudo_Code2.jpg">
-								<img src="img/activities/poster.jpg" class="img-responsive" alt="QuizWiz'15">
+							<a href="img/activities/quizwiz/poster.jpg" title="QuizWiz '15" data-lightbox-gallery="gallery1" data-lightbox-hidpi="img/activities/quizwiz/poster.jpg">
+								<img src="img/activities/quizwiz/poster.jpg" class="img-responsive" alt="QuizWiz'15">
 							</a>
 						</div>
 						<div class="col-md-3">
-                        	<a href="img/activities/1.jpg" title="QuizWiz 2015" data-lightbox-gallery="gallery1" data-lightbox-hidpi="img/activities/Sudo_Code2.jpg">
-                            	<img src="img/activities/1.jpg" class="img-responsive" alt="QuizWiz 2015">
+                        	<a href="img/activities/quizwiz/1.jpg" title="QuizWiz 2015" data-lightbox-gallery="gallery1" data-lightbox-hidpi="img/activities/quizwiz/1.jpg">
+                            	<img src="img/activities/quizwiz/1.jpg" class="img-responsive" alt="QuizWiz 2015">
                             </a>
                         </div>
                         <div class="col-md-3">
-                        	<a href="img/activities/2.jpg" title="QuizWiz 2015" data-lightbox-gallery="gallery1" data-lightbox-hidpi="img/activities/Sudo_Code2.jpg">
-                            	<img src="img/activities/2.jpg" class="img-responsive" alt="QuizWiz 2015">
+                        	<a href="img/activities/quizwiz/2.jpg" title="QuizWiz 2015" data-lightbox-gallery="gallery1" data-lightbox-hidpi="img/activities/quizwiz/2.jpg">
+                            	<img src="img/activities/quizwiz/2.jpg" class="img-responsive" alt="QuizWiz 2015">
                             </a>
                         </div>
                         <div class="col-md-3">
-                        	<a href="img/activities/3.jpg" title="QuizWiz 2015" data-lightbox-gallery="gallery1" data-lightbox-hidpi="img/activities/Sudo_Code2.jpg">
-                            	<img src="img/activities/3.jpg" class="img-responsive" alt="QuizWiz 2015">
+                        	<a href="img/activities/quizwiz/3.jpg" title="QuizWiz 2015" data-lightbox-gallery="gallery1" data-lightbox-hidpi="img/activities/quizwiz/3.jpg">
+                            	<img src="img/activities/quizwiz/3.jpg" class="img-responsive" alt="QuizWiz 2015">
                             </a>
                         </div>
 						<div class="col-md-3">
-                        	<a href="img/activities/4.jpg" title="QuizWiz 2015" data-lightbox-gallery="gallery1" data-lightbox-hidpi="img/activities/Sudo_Code2.jpg">
-                            	<img src="img/activities/4.jpg" class="img-responsive" alt="QuizWiz 2015">
+                        	<a href="img/activities/quizwiz/4.jpg" title="QuizWiz 2015" data-lightbox-gallery="gallery1" data-lightbox-hidpi="img/activities/quizwiz/4.jpg">
+                            	<img src="img/activities/quizwiz/4.jpg" class="img-responsive" alt="QuizWiz 2015">
                             </a>
                         </div>
                         <div class="col-md-3">
-                        	<a href="img/activities/5.jpg" title="QuizWiz 2015" data-lightbox-gallery="gallery1" data-lightbox-hidpi="img/activities/Sudo_Code2.jpg">
-                            	<img src="img/activities/5.jpg" class="img-responsive" alt="QuizWiz 2015">
+                        	<a href="img/activities/quizwiz/5.jpg" title="QuizWiz 2015" data-lightbox-gallery="gallery1" data-lightbox-hidpi="img/activities/quizwiz/5.jpg">
+                            	<img src="img/activities/quizwiz/5.jpg" class="img-responsive" alt="QuizWiz 2015">
                             </a>
                         </div>
                         <div class="col-md-3">
-                        	<a href="img/activities/6.jpg" title="QuizWiz 2015" data-lightbox-gallery="gallery1" data-lightbox-hidpi="img/activities/Sudo_Code2.jpg">
-                            	<img src="img/activities/6.jpg" class="img-responsive" alt="QuizWiz 2015">
+                        	<a href="img/activities/quizwiz/6.jpg" title="QuizWiz 2015" data-lightbox-gallery="gallery1" data-lightbox-hidpi="img/activities/quizwiz/6.jpg">
+                            	<img src="img/activities/quizwiz/6.jpg" class="img-responsive" alt="QuizWiz 2015">
                             </a>
                         </div>
                         <div class="col-md-3">
-                        	<a href="img/activities/7.jpg" title="QuizWiz 2015" data-lightbox-gallery="gallery1" data-lightbox-hidpi="img/activities/Sudo_Code2.jpg">
-                            	<img src="img/activities/7.jpg" class="img-responsive" alt="QuizWiz 2015">
+                        	<a href="img/activities/quizwiz/7.jpg" title="QuizWiz 2015" data-lightbox-gallery="gallery1" data-lightbox-hidpi="img/activities/quizwiz/7.jpg">
+                            	<img src="img/activities/quizwiz/7.jpg" class="img-responsive" alt="QuizWiz 2015">
                             </a>
                         </div>
                         <div class="col-md-3">
-                        	<a href="img/activities/8.jpg" title="QuizWiz 2015" data-lightbox-gallery="gallery1" data-lightbox-hidpi="img/activities/Sudo_Code2.jpg">
-                            	<img src="img/activities/8.jpg" class="img-responsive" alt="QuizWiz 2015">
+                        	<a href="img/activities/quizwiz/8.jpg" title="QuizWiz 2015" data-lightbox-gallery="gallery1" data-lightbox-hidpi="img/activities/quizwiz/8.jpg">
+                            	<img src="img/activities/quizwiz/8.jpg" class="img-responsive" alt="QuizWiz 2015">
                             </a>
                         </div>
                         <div class="col-md-3">
-                        	<a href="img/activities/9.jpg" title="QuizWiz 2015" data-lightbox-gallery="gallery1" data-lightbox-hidpi="img/activities/Sudo_Code2.jpg">
-                            	<img src="img/activities/9.jpg" class="img-responsive" alt="QuizWiz 2015">
+                        	<a href="img/activities/quizwiz/9.jpg" title="QuizWiz 2015" data-lightbox-gallery="gallery1" data-lightbox-hidpi="img/activities/quizwiz/9.jpg">
+                            	<img src="img/activities/quizwiz/9.jpg" class="img-responsive" alt="QuizWiz 2015">
                             </a>
                         </div>
                         <div class="col-md-3">
-                        	<a href="img/activities/10.jpg" title="QuizWiz 2015" data-lightbox-gallery="gallery1" data-lightbox-hidpi="img/activities/Sudo_Code2.jpg">
-                            	<img src="img/activities/10.jpg" class="img-responsive" alt="QuizWiz 2015">
+                        	<a href="img/activities/quizwiz/10.jpg" title="QuizWiz 2015" data-lightbox-gallery="gallery1" data-lightbox-hidpi="img/activities/quizwiz/10.jpg">
+                            	<img src="img/activities/quizwiz/10.jpg" class="img-responsive" alt="QuizWiz 2015">
                             </a>
                         </div>
                         <div class="col-md-3">
-                        	<a href="img/activities/11.jpg" title="QuizWiz 2015" data-lightbox-gallery="gallery1" data-lightbox-hidpi="img/activities/Sudo_Code2.jpg">
-                            	<img src="img/activities/11.jpg" class="img-responsive" alt="QuizWiz 2015">
+                        	<a href="img/activities/quizwiz/11.jpg" title="QuizWiz 2015" data-lightbox-gallery="gallery1" data-lightbox-hidpi="img/activities/quizwiz/11.jpg">
+                            	<img src="img/activities/quizwiz/11.jpg" class="img-responsive" alt="QuizWiz 2015">
                             </a>
                         </div>
                         <div class="col-md-3">
-                        	<a href="img/activities/12.jpg" title="QuizWiz 2015" data-lightbox-gallery="gallery1" data-lightbox-hidpi="img/activities/Sudo_Code2.jpg">
-                            	<img src="img/activities/12.jpg" class="img-responsive" alt="QuizWiz 2015">
+                        	<a href="img/activities/quizwiz/12.jpg" title="QuizWiz 2015" data-lightbox-gallery="gallery1" data-lightbox-hidpi="img/activities/quizwiz/12.jpg">
+                            	<img src="img/activities/quizwiz/12.jpg" class="img-responsive" alt="QuizWiz 2015">
                             </a>
                         </div>
                         <div class="col-md-3">
-                        	<a href="img/activities/13.jpg" title="QuizWiz 2015" data-lightbox-gallery="gallery1" data-lightbox-hidpi="img/activities/Sudo_Code2.jpg">
-                            	<img src="img/activities/13.jpg" class="img-responsive" alt="QuizWiz 2015">
+                        	<a href="img/activities/quizwiz/13.jpg" title="QuizWiz 2015" data-lightbox-gallery="gallery1" data-lightbox-hidpi="img/activities/quizwiz/13.jpg">
+                            	<img src="img/activities/quizwiz/13.jpg" class="img-responsive" alt="QuizWiz 2015">
                             </a>
                         </div>
                         <div class="col-md-3">
-                        	<a href="img/activities/14.jpg" title="QuizWiz 2015" data-lightbox-gallery="gallery1" data-lightbox-hidpi="img/activities/Sudo_Code2.jpg">
-                            	<img src="img/activities/14.jpg" class="img-responsive" alt="QuizWiz 2015">
+                        	<a href="img/activities/quizwiz/14.jpg" title="QuizWiz 2015" data-lightbox-gallery="gallery1" data-lightbox-hidpi="img/activities/quizwiz/14.jpg">
+                            	<img src="img/activities/quizwiz/14.jpg" class="img-responsive" alt="QuizWiz 2015">
                             </a>
                         </div>
                         <div class="col-md-3">
-                        	<a href="img/activities/15.jpg" title="QuizWiz 2015" data-lightbox-gallery="gallery1" data-lightbox-hidpi="img/activities/Sudo_Code2.jpg">
-                            	<img src="img/activities/15.jpg" class="img-responsive" alt="QuizWiz 2015">
+                        	<a href="img/activities/quizwiz/15.jpg" title="QuizWiz 2015" data-lightbox-gallery="gallery1" data-lightbox-hidpi="img/activities/quizwiz/15.jpg">
+                            	<img src="img/activities/quizwiz/15.jpg" class="img-responsive" alt="QuizWiz 2015">
                             </a>
                         </div>
 					</div>
