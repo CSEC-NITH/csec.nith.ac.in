@@ -19,6 +19,51 @@
 				<div class="row">
 					<div class="col-lg-8 col-lg-offset-2">
 						<div class="section-heading">
+							<h3  id="QuizWiz">Sudo Code 2.0</h3>
+							<p>QuizWiz was a general Quiz competition organized by Team CSEC for the freshers of institute. The Quiz was held on 16th January, 2015.</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="container">
+            <div class="row">
+                <div class="col-sm-12 col-md-12 col-lg-12" >
+                    <div class="row gallery-item">
+                        <div class="col-md-3">
+							<a href="img/activities/quizwiz/poster.jpg" title="QuizWiz '15" data-lightbox-gallery="gallery1" data-lightbox-hidpi="img/activities/Sudo_Code2.jpg">
+								<img src="img/activities/poster.jpg" class="img-responsive" alt="QuizWiz'15">
+							</a>
+						</div>
+						<div class="col-md-3">
+                        	<a href="img/activities/1.jpg" title="QuizWiz 2015" data-lightbox-gallery="gallery1" data-lightbox-hidpi="img/activities/Sudo_Code2.jpg">
+                            	<img src="img/activities/2.jpg" class="img-responsive" alt="QuizWiz 2015">
+                            </a>
+                        </div>
+                        <div class="col-md-3">
+                        	<a href="img/activities/1.jpg" title="QuizWiz 2015" data-lightbox-gallery="gallery1" data-lightbox-hidpi="img/activities/Sudo_Code2.jpg">
+                            	<img src="img/activities/2.jpg" class="img-responsive" alt="QuizWiz 2015">
+                            </a>
+                        </div>
+                        <div class="col-md-3">
+                        	<a href="img/activities/1.jpg" title="QuizWiz 2015" data-lightbox-gallery="gallery1" data-lightbox-hidpi="img/activities/Sudo_Code2.jpg">
+                            	<img src="img/activities/2.jpg" class="img-responsive" alt="QuizWiz 2015">
+                            </a>
+                        </div>
+						<div class="col-md-3">
+                        	<a href="img/activities/1.jpg" title="QuizWiz 2015" data-lightbox-gallery="gallery1" data-lightbox-hidpi="img/activities/Sudo_Code2.jpg">
+                            	<img src="img/activities/2.jpg" class="img-responsive" alt="QuizWiz 2015">
+                            </a>
+                        </div>
+					</div>
+                </div>
+            </div>	
+		</div>
+		<div class="heading-works marginbot-50">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-8 col-lg-offset-2">
+						<div class="section-heading">
 							<h3  id="sudocode2">Sudo Code 2.0</h3>
 							<p>Sudo Code is an online programming contest hosted by Team CSEC on India's biggest developers hiring platform <a href="http://www.hackerearth.com" target="blank">Hackerearth</a>. With hundreds of developers participating in the contest, the contest is always a grand event. Visit the latest  <a href="http://www.hackerearth.com/sudo-code-2/" target="blank">contest page</a> on Hackerearth web site for more details.</p>
 						</div>
@@ -26,6 +71,7 @@
 				</div>
 			</div>
 		</div>
+		
 		<div class="container">
             <div class="row">
                 <div class="col-sm-12 col-md-12 col-lg-12" >
