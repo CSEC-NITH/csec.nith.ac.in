@@ -1,0 +1,320 @@
+@import url('reset.css');
+@font-face {
+    font-family:"harrypotter";
+    src: url('harrypotter.ttf') format('truetype');
+  /* TTF file for CSS3 browsers */
+}
+body{
+	
+	color:#000;
+	font-family:'harrypotter';
+	font-size:12px;
+}
+
+
+a{
+	color:#000;
+	text-decoration:none;
+}
+.description{
+	width: 750px;
+	font-size: 20px;
+}
+.headersize{
+	font-size: 20px;
+
+}
+.clr{
+	clear:both;
+}
+.container {
+	width:100%;
+	position:relative;
+	z-index:100;
+	margin:0 auto;
+}
+.centerbutton{
+	background-color: #000;
+	color: #fff;
+	height: 30px;
+	border:	outset;
+	border-color: #44d184;
+}
+.secondbutton{
+	background-color: #000;
+	color: #fff;
+	height: 30px;
+	border:	outset;
+	border-color: #44d184;
+	margin-left: -690px;
+}
+.buttons{
+	margin-top: 650px;
+	margin-left: -870px;
+	height: 30px;
+	border:	outset;
+	border-color: #44d184;
+	color: #fff;
+	background-color: #000; 
+	
+}
+.buttons2{
+	margin-top: 700px;
+	margin-left: -700px;
+	height: 30px;
+	color: #fff;
+	background-color: #3bb9ff; 
+	
+}
+.header{
+	padding-top:40px;
+}
+.content {
+	width:1000px;
+	margin:0 auto;
+}
+.bigmargin{
+	margin-top: 650px;
+	margin-left: 245px;
+}
+h1{
+	margin:10px 0 0px 20px;
+	font-size:80px;
+	color:#fff;
+	text-shadow:1px 1px 1px #000;
+	font-family: 'harrypotter', arial, serif; 
+}
+h1 span{
+	font-size:22px;
+	text-transform:uppercase;
+}
+.more ul{
+	text-transform:uppercase;
+	font-size:13px;
+	padding:50px 0px 30px 20px;
+	height:30px;
+	clear:both;
+	font-family: 'harrypotter', Arial, sans-serif;
+	width:830px;
+	margin:0 auto;
+}
+.more ul li{
+	float:left;
+	margin:0px 2px;
+}
+.more ul li.selected a,
+.more ul li.selected a:hover{
+	background:#000;
+	color:#fff;
+	text-shadow:none;
+}
+.more ul li a{
+	text-shadow:1px 1px 1px #fff;
+	color:#555;
+	background:#f7f7f7;
+	padding:3px 6px;
+	-moz-box-shadow:1px 1px 2px #aaa;
+	-webkit-box-shadow:1px 1px 2px #aaa;
+	box-shadow:1px 1px 2px #aaa;
+}
+.more ul li a:hover{
+	background:#000;
+	color:#fff;
+	text-shadow:none;
+}
+.content{
+	width:100%;
+	position:relative;
+}
+tn-xl {
+    padding: 20px 40px;
+    border-color: #000;
+    border-radius: 3px;
+    text-transform: uppercase;
+    font-family: 'harrypotter';
+    font-size: 18px;
+    font-weight: 700;
+    color: #fff;
+    background-color: #000;
+}
+
+.btn-xl:hover,
+.btn-xl:focus,
+.btn-xl:active,
+.btn-xl.active,
+.open .dropdown-toggle.btn-xl {
+    border-color: #000;
+    color: #fff;
+    background-color: #000;
+}
+
+.btn-xl:active,
+.btn-xl.active,
+.open .dropdown-toggle.btn-xl {
+    background-image: none;
+}
+
+.btn-xl.disabled,
+.btn-xl[disabled],
+fieldset[disabled] .btn-xl,
+.btn-xl.disabled:hover,
+.btn-xl[disabled]:hover,
+fieldset[disabled] .btn-xl:hover,
+.btn-xl.disabled:focus,
+.btn-xl[disabled]:focus,
+fieldset[disabled] .btn-xl:focus,
+.btn-xl.disabled:active,
+.btn-xl[disabled]:active,
+fieldset[disabled] .btn-xl:active,
+.btn-xl.disabled.active,
+.btn-xl[disabled].active,
+fieldset[disabled] .btn-xl.active {
+    border-color: #000;
+    background-color: #000;
+}
+
+.btn-xl .badge {
+    color: #fff;
+    background-color: #fff;
+}
+.btn:focus,
+.btn:active,
+.btn.active,
+.btn:active:focus {
+    outline: 0;
+}
+.btn > .caret,
+  .dropup > .btn > .caret {
+    border-top-color: #000 !important;
+  }
+  .btn {
+  display: inline-block;
+  padding: 6px 12px;
+  margin-bottom: 0;
+  font-size: 14px;
+  font-weight: normal;
+  line-height: 1.42857143;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  -ms-touch-action: manipulation;
+      touch-action: manipulation;
+  cursor: pointer;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+  background-image: none;
+  border: 1px solid transparent;
+  border-radius: 4px;
+}
+.btn:focus,
+.btn:active:focus,
+.btn.active:focus,
+.btn.focus,
+.btn:active.focus,
+.btn.active.focus {
+  outline: thin dotted;
+  outline: 5px auto -webkit-focus-ring-color;
+  outline-offset: -2px;
+}
+.btn:hover,
+.btn:focus,
+.btn.focus {
+  color: #fff;
+  text-decoration: none;
+}
+.btn:active,
+.btn.active {
+  background-image: none;
+  outline: 0;
+  -webkit-box-shadow: inset 0 3px 5px rgba(0, 0, 0, .125);
+          box-shadow: inset 0 3px 5px rgba(0, 0, 0, .125);
+}
+.btn.disabled,
+.btn[disabled],
+fieldset[disabled] .btn {
+  pointer-events: none;
+  cursor: not-allowed;
+  filter: alpha(opacity=65);
+  -webkit-box-shadow: none;
+          box-shadow: none;
+  opacity: .65;
+}
+.btn-default {
+  color: #333;
+  background-color: #fff;
+  border-color: #ccc;
+}
+.btn-default:hover,
+.btn-default:focus,
+.btn-default.focus,
+.btn-default:active,
+.btn-default.active,
+.open > .dropdown-toggle.btn-default {
+  color: #333;
+  background-color: #e6e6e6;
+  border-color: #adadad;
+}
+.btn-default:active,
+.btn-default.active,
+.open > .dropdown-toggle.btn-default {
+  background-image: none;
+}
+.btn-default.disabled,
+.btn-default[disabled],
+fieldset[disabled] .btn-default,
+.btn-default.disabled:hover,
+.btn-default[disabled]:hover,
+fieldset[disabled] .btn-default:hover,
+.btn-default.disabled:focus,
+.btn-default[disabled]:focus,
+fieldset[disabled] .btn-default:focus,
+.btn-default.disabled.focus,
+.btn-default[disabled].focus,
+fieldset[disabled] .btn-default.focus,
+.btn-default.disabled:active,
+.btn-default[disabled]:active,
+fieldset[disabled] .btn-default:active,
+.btn-default.disabled.active,
+.btn-default[disabled].active,
+fieldset[disabled] .btn-default.active {
+  background-color: #fff;
+  border-color: #ccc;
+}
+.btn-default .badge {
+  color: #fff;
+  background-color: #333;
+}
+/* Footer Style */
+.footer{
+	position:fixed;
+	width:100%;
+	height:25px;
+	line-height:24px;
+	bottom:0;
+	font-size:13px;
+	background:#000;
+	opacity:0.9;
+	text-transform:uppercase;
+	font-family: 'harrypotter', Arial, sans-serif;
+	z-index:4;
+	clear: both;
+}
+.footer a{
+	padding:5px 10px;
+	letter-spacing:1px;
+	text-shadow:1px 1px 1px #000;
+	color:#ddd;
+	text-align:right;
+}
+.footer a:hover{
+	color:#fff;
+}
+.footer a span{
+	font-weight:bold;
+}
+.footer span.right_ab{
+	position:absolute;
+	right:4px;
+}
