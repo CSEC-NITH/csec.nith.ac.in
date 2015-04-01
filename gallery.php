@@ -19,7 +19,7 @@
 				<div class="row">
 					<div class="col-lg-8 col-lg-offset-2">
 						<div class="section-heading">
-							<h3  id="QuizWiz">Sudo Code 2.0</h3>
+							<h3  id="QuizWiz">QuizWiz</h3>
 							<p>QuizWiz was a general Quiz competition organized by Team CSEC for the freshers of institute. The Quiz was held on 16th January, 2015.</p>
 						</div>
 					</div>
