@@ -79,6 +79,16 @@
 	                </div>
 	            </div>
 			</div>
+
+	<div class="col-xs-6 col-sm-3 col-md-3">
+		        <div class="team boxed-grey">
+		            <div class="inner">
+						<h5>Akshat Jain</h5>
+	                    <div class="avatar"><img src="img/team/akshat_jain.jpg" alt="" class="img-responsive" /></div>
+	                </div>
+	            </div>
+			</div>
+
 		    <div class="col-xs-6 col-sm-3 col-md-3">
 		        <div class="team boxed-grey">
 		            <div class="inner">
@@ -87,19 +97,44 @@
 	                </div>
 	            </div>
 			</div>
+			<div class="col-xs-6 col-sm-3 col-md-3">
+		        <div class="team boxed-grey">
+		            <div class="inner">
+						<h5>Sagar Sharma</h5>
+	                    <div class="avatar"><img src="img/team/sagar_sharma.jpg" alt="" class="img-responsive" /></div>
+	                </div>
+	            </div>
+	        </div>
+		<div class="col-xs-6 col-sm-3 col-md-3">
+		        <div class="team boxed-grey">
+		            <div class="inner">
+						<h5>Rahul Aggarwal</h5>
+	                    <div class="avatar"><img src="img/team/rahul_aggarwal.jpg" alt="" class="img-responsive" /></div>
+	                </div>
+	            </div>
+	        </div>
+		 <div class="col-xs-6 col-sm-3 col-md-3">
+		        <div class="team boxed-grey">
+		            <div class="inner">
+						<h5>Abhaya Nand Yadav</h5>
+	                    <div class="avatar"><img src="img/team/abhaya.jpg" alt="" class="img-responsive" /></div>
+	                </div>
+	            </div>
+	        </div>
+
 		    <div class="col-xs-6 col-sm-3 col-md-3">
 		        <div class="team boxed-grey">
 		            <div class="inner">
-						<h5>Mamta Sharma</h5>
-	                    <div class="avatar"><img src="img/team/mamta.jpg" alt="" class="img-responsive" /></div>
+						<h5>Gaura Sinha</h5>
+	                    <div class="avatar"><img src="img/team/gaura_sinha.jpg" alt="" class="img-responsive" /></div>
 	                </div>
 	            </div>
 	        </div>
 		    <div class="col-xs-6 col-sm-3 col-md-3">
 		        <div class="team boxed-grey">
 		            <div class="inner">
-						<h5>Shivangi Aneja</h5>
-	                    <div class="avatar"><img src="img/team/shivangi.jpg" alt="" class="img-responsive" /></div>
+						<h5>Sakshi Aggarwal</h5>
+	                    <div class="avatar"><img src="img/team/sakshi_aggarwal.jpg" alt="" class="img-responsive" /></div>
 	                </div>
 	            </div>
 			</div>
@@ -114,8 +149,17 @@
 			<div class="col-xs-6 col-sm-3 col-md-3">
 		        <div class="team boxed-grey">
 		            <div class="inner">
-						<h5>Palvi Gupta</h5>
-	                    <div class="avatar"><img src="img/team/palvi.jpg" alt="" class="img-responsive" /></div>
+						<h5>Tamanna Choudhary</h5>
+	                    <div class="avatar"><img src="img/team/tamanna.jpg" alt="" class="img-responsive" /></div>
+	                </div>
+	            </div>
+			</div>
+			
+			<div class="col-xs-6 col-sm-3 col-md-3">
+		        <div class="team boxed-grey">
+		            <div class="inner">
+						<h5>Pankaj Kumari</h5>
+	                    <div class="avatar"><img src="img/team/pankaj_kumari.jpg" alt="" class="img-responsive" /></div>
 	                </div>
 	            </div>
 	        </div>
