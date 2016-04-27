@@ -41,36 +41,36 @@
 	            <div class="col-xs-6 col-sm-3 col-md-3">
 	                <div class="team boxed-grey">
 	                    <div class="inner">
-							<h5>Arun Singh</h5>
+							<h5>MAYANK BANSAL</h5>
 	                        <p class="subtitle">President</p>
-	                        <div class="avatar"><img src="img/team/arun.jpg" alt="" class="img-responsive" /></div>
+	                        <div class="avatar"><img src="img/team/mayank.jpg" alt="" class="img-responsive" /></div>
 	                    </div>
 	                </div>
 	            </div>
 				<div class="col-xs-6 col-sm-3 col-md-3">
 	                <div class="team boxed-grey">
     	                <div class="inner">
-							<h5>Pranav Kant</h5>
+							<h5>DIVJOT SINGH</h5>
     	                    <p class="subtitle">Vice-President</p>
-    	                    <div class="avatar"><img src="img/team/pranav.jpg" alt="" class="img-responsive" /></div>
+    	                    <div class="avatar"><img src="img/team/divjot.jpg" alt="" class="img-responsive" /></div>
     	                </div>
 					</div>
             	</div>
 				<div class="col-xs-6 col-sm-3 col-md-3">
 	                <div class="team boxed-grey">
 	                    <div class="inner">
-							<h5>Giriraj Sharma</h5>
+							<h5>ANIKET VERMA</h5>
 	                        <p class="subtitle">Competitive Coding Head</p>
-	                        <div class="avatar"><img src="img/team/giriraj.jpg" alt="" class="img-responsive" /></div>
+	                        <div class="avatar"><img src="img/team/aniket.jpg" alt="" class="img-responsive" /></div>
 	                    </div>
 	                </div>
 	            </div>
 				<div class="col-xs-6 col-sm-3 col-md-3">
 	                <div class="team boxed-grey">
 	                    <div class="inner">
-							<h5>Binny Arora</h5>
+							<h5>SAGAR KARIRA</h5>
 	                        <p class="subtitle">Web Team Head</p>
-	                        <div class="avatar"><img src="img/team/binny.jpg" alt="" class="img-responsive" /></div>
+	                        <div class="avatar"><img src="img/team/sagar.jpg" alt="" class="img-responsive" /></div>
 	                    </div>
 	                </div>
 	            </div>
