@@ -13,164 +13,13 @@
 			</div>
 		</div>
 	</div>
+	
 	<div class="heading-works marginbot-50">
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-8 col-lg-offset-2">
 					<div class="section-heading">
 						<h3>Final Year</h3>
-						<p></p>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-	<div class="container">
-        <div class="row">
-            <div class="col-xs-6 col-sm-3 col-md-3">
-                <div class="team boxed-grey">
-                    <div class="inner">
-						<h5>Arun Kumar Singh</h5>
-                        <p class="subtitle">President</p>
-                        <div class="avatar"><img src="img/team/arun.jpg" alt="" class="img-responsive" /></div>
-                    </div>
-                </div>
-            </div>
-			<div class="col-xs-6 col-sm-3 col-md-3">
-                <div class="team boxed-grey">
-                    <div class="inner">
-						<h5>Pranav Kant</h5>
-                        <p class="subtitle">Vice-President</p>
-                        <div class="avatar"><img src="img/team/pranav.jpg" alt="" class="img-responsive" /></div>
-                    </div>
-				</div>
-            </div>
-			<div class="col-xs-6 col-sm-3 col-md-3">
-                <div class="team boxed-grey">
-                    <div class="inner">
-						<h5>Giriraj Sharma</h5>
-                        <p class="subtitle">Competitive Coding Head</p>
-                        <div class="avatar"><img src="img/team/giriraj.jpg" alt="" class="img-responsive" /></div>
-                    </div>
-                </div>
-            </div>
-			<div class="col-xs-6 col-sm-3 col-md-3">
-				<div class="team boxed-grey">
-					<div class="inner">
-						<h5>Binny Arora</h5>
-                        <p class="subtitle">Web Team Head</p>
-                        <div class="avatar"><img src="img/team/binny.jpg" alt="" class="img-responsive" /></div>
-                    </div>
-                </div>
-            </div>
-			<div class="col-xs-6 col-sm-3 col-md-3">
-				<div class="team boxed-grey">
-	            	<div class="inner">
-						<h5>Shivam Gupta</h5>
-	                    <div class="avatar"><img src="img/team/shivam(2).jpg" alt="" class="img-responsive" /></div>
-	                </div>
-	            </div>
-			</div>
-			<div class="col-xs-6 col-sm-3 col-md-3">
-				<div class="team boxed-grey">
-            	<div class="inner">
-						<h5>Abhishek Srivastava</h5>
-	                    <div class="avatar"><img src="img/team/abhishek(1).jpg" alt="" class="img-responsive" /></div>
-	                </div>
-	            </div>
-			</div>
-
-	<div class="col-xs-6 col-sm-3 col-md-3">
-		        <div class="team boxed-grey">
-		            <div class="inner">
-						<h5>Akshat Jain</h5>
-	                    <div class="avatar"><img src="img/team/akshat_jain.jpg" alt="" class="img-responsive" /></div>
-	                </div>
-	            </div>
-			</div>
-
-		    <div class="col-xs-6 col-sm-3 col-md-3">
-		        <div class="team boxed-grey">
-		            <div class="inner">
-						<h5>Anurag Singh</h5>
-	                    <div class="avatar"><img src="img/team/anurag.jpg" alt="" class="img-responsive" /></div>
-	                </div>
-	            </div>
-			</div>
-			<div class="col-xs-6 col-sm-3 col-md-3">
-		        <div class="team boxed-grey">
-		            <div class="inner">
-						<h5>Sagar Sharma</h5>
-	                    <div class="avatar"><img src="img/team/sagar_sharma.jpg" alt="" class="img-responsive" /></div>
-	                </div>
-	            </div>
-	        </div>
-		<div class="col-xs-6 col-sm-3 col-md-3">
-		        <div class="team boxed-grey">
-		            <div class="inner">
-						<h5>Rahul Aggarwal</h5>
-	                    <div class="avatar"><img src="img/team/rahul_aggarwal.jpg" alt="" class="img-responsive" /></div>
-	                </div>
-	            </div>
-	        </div>
-		 <div class="col-xs-6 col-sm-3 col-md-3">
-		        <div class="team boxed-grey">
-		            <div class="inner">
-						<h5>Abhaya Nand Yadav</h5>
-	                    <div class="avatar"><img src="img/team/abhaya.jpg" alt="" class="img-responsive" /></div>
-	                </div>
-	            </div>
-	        </div>
-
-		    <div class="col-xs-6 col-sm-3 col-md-3">
-		        <div class="team boxed-grey">
-		            <div class="inner">
-						<h5>Gaura Sinha</h5>
-	                    <div class="avatar"><img src="img/team/gaura_sinha.jpg" alt="" class="img-responsive" /></div>
-	                </div>
-	            </div>
-	        </div>
-		    <div class="col-xs-6 col-sm-3 col-md-3">
-		        <div class="team boxed-grey">
-		            <div class="inner">
-						<h5>Sakshi Aggarwal</h5>
-	                    <div class="avatar"><img src="img/team/sakshi_aggarwal.jpg" alt="" class="img-responsive" /></div>
-	                </div>
-	            </div>
-			</div>
-			<div class="col-xs-6 col-sm-3 col-md-3">
-		        <div class="team boxed-grey">
-		            <div class="inner">
-						<h5>Siddha Ganju</h5>
-	                    <div class="avatar"><img src="img/team/siddha.jpg" alt="" class="img-responsive" /></div>
-	                </div>
-	            </div>
-			</div>
-			<div class="col-xs-6 col-sm-3 col-md-3">
-		        <div class="team boxed-grey">
-		            <div class="inner">
-						<h5>Tamanna Choudhary</h5>
-	                    <div class="avatar"><img src="img/team/tamanna.jpg" alt="" class="img-responsive" /></div>
-	                </div>
-	            </div>
-			</div>
-			
-			<div class="col-xs-6 col-sm-3 col-md-3">
-		        <div class="team boxed-grey">
-		            <div class="inner">
-						<h5>Pankaj Kumari</h5>
-	                    <div class="avatar"><img src="img/team/pankaj_kumari.jpg" alt="" class="img-responsive" /></div>
-	                </div>
-	            </div>
-	        </div>
-		</div>		
-	</div>
-	<div class="heading-works marginbot-50">
-		<div class="container">
-			<div class="row">
-				<div class="col-lg-8 col-lg-offset-2">
-					<div class="section-heading">
-						<h3>3rd Year</h3>
 						<p></p>
 					</div>
 				</div>
@@ -290,7 +139,7 @@
 			<div class="row">
 				<div class="col-lg-8 col-lg-offset-2">
 					<div class="section-heading">
-						<h3>2nd Year</h3>
+						<h3>3rd Year</h3>
 						<p></p>
 					</div>
 				</div>
