@@ -47,22 +47,22 @@
 									<a class="gn-icon gn-icon-search"><span>Search</span></a>
 								</li>
 								<li>
-									<a href="../index.php#about" class="gn-icon gn-icon-download">About</a>
+									<a href="./index.php#about" class="gn-icon gn-icon-download">About</a>
 								</li>
 								<li><a href="./index.php#whatwedo" class="gn-icon gn-icon-cog">What We do</a></li>						
-								<li><a href="../tutorials/index.html" class="gn-icon gn-icon-cog">Tutorials</a></li>						
+								<li><a href="tutorials/index.html" class="gn-icon gn-icon-cog">Tutorials</a></li>						
 								<li><a href="./index.php#Activities" class="gn-icon gn-icon-article">Activities</a></li>
-								<li><a href="../gallery.php" class="gn-icon gn-icon-pictures">Gallery</a></li>
+								<li><a href="gallery.php" class="gn-icon gn-icon-pictures">Gallery</a></li>
 								<?php
 									$rem_ip=getenv('REMOTE_ADDR');
 									//echo $rem_ip;
 									$ip= substr($rem_ip,0,7);
 									if($ip=="172.16."){
-									echo '<li><a href="../tutorials.php" class="gn-icon gn-icon-videos">Tutorials</a></li>
-								<li><a href="../judge.php/" class="gn-icon gn-icon-cog">Compile your Code</a></li>';
+									echo '<li><a href="tutorials.php" class="gn-icon gn-icon-videos">Tutorials</a></li>
+								<li><a href="judge.php/" class="gn-icon gn-icon-cog">Compile your Code</a></li>';
 								}
 								?>
-								<li><a href="../members.php" class="gn-icon gn-icon-cog">Members</a></li>
+								<li><a href="members.php" class="gn-icon gn-icon-cog">Members</a></li>
 								<li>
 									<a href="./index.php#contact" class="gn-icon gn-icon-archive">Contact</a>
 								</li>
