@@ -199,11 +199,11 @@
 
     <div class="row">
        <div class="boxed-grey">
-							<a class="twitter-timeline"  href="https://twitter.com/csecnith" data-widget-id="525556426265989121">CSEC on Twitter</a>
+							<a class="twitter-timeline "  href="https://twitter.com/csecnith" data-widget-id="525556426265989121">CSEC on Twitter</a>
             <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 						<p>            </p>
 						<!--facebook like box-->
-						<div class="fb-like-box" data-href="https://www.facebook.com/csec.nith" data-width="250" data-height="250" data-colorscheme="light" data-show-faces="true" data-header="true" data-stream="false" data-show-border="true" float="right"></div>
+						<div class="fb-like-box" data-href="https://www.facebook.com/csec.nith" data-width="250" data-height="250" data-colorscheme="light" data-show-faces="true" data-header="true" data-stream="false" data-show-border="true" float="right">CSEC on Facebook</div>
 						<!--/facebook like box-->
 						</div>
 						
@@ -219,7 +219,7 @@
 			<div class="col-lg-6">
 				<address>
 					<strong>Email</strong><br>
-					<a href="mailto:#">admin@csec.nith.ac.in</a><br />
+					<a href="mailto:#">admin@csec.nith.ac.in</a><br>
 					<a href="mailto:#">csecnith14@gmail.com</a>
 				</address>	
 			</div>
